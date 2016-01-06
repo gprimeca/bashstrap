@@ -2,7 +2,8 @@
 
 # Open specified files in Sublime Text
 # "s ." will open the current directory in Sublime
-alias s='open -a "Sublime Text"'
+alias s='open -a "Sublime Text 2"'
+alias a='open -a "Atom"'
 
 # Color LS
 colorflag="-G"
